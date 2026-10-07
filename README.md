@@ -32,4 +32,4 @@ O objetivo do projeto é verificar se existem atualizações do Windows disponí
 Clone o repositório:
 
 ```bash
-git clone SEU_LINK_DO_GITHUB
+git clone https://github.com/GuilhermeCarv24/PCUpdateMonitor.git
